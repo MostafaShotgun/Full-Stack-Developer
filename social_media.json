@@ -19,28 +19,28 @@
       "url": "https://github.com/your_username",
       "imgname": "github.png",
       "color": "#181717",
-      "active": true
+      "active": false
     },
     {
       "name": "twitter",
       "url": "https://twitter.com/your_username",
       "imgname": "twitter.png",
       "color": "#000000",
-      "active": true
+      "active": false
     },
     {
       "name": "whatsapp",
       "url": "https://wa.me/201002789493",
       "imgname": "whatsapp.png",
       "color": "#25D366",
-      "active": false
+      "active": true
     },
     {
       "name": "telegram",
       "url": "https://t.me/your_username",
       "imgname": "telegram.png",
       "color": "#229ED9",
-      "active": true
+      "active": false
     },
     {
       "name": "youtube",
@@ -54,7 +54,7 @@
       "url": "https://instagram.com/your_username",
       "imgname": "instagram.png",
       "color": "#E4405F",
-      "active": true
+      "active": false
     }
   ]
 }

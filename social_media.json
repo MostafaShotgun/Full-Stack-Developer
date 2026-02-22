@@ -12,21 +12,21 @@
       "url": "https://linkedin.com/in/your_username",
       "imgname": "linkedin.png",
       "color": "#0A66C2",
-      "active": false
+      "active": true
     },
     {
       "name": "github",
       "url": "https://github.com/your_username",
       "imgname": "github.png",
       "color": "#181717",
-      "active": false
+      "active": true
     },
     {
       "name": "twitter",
       "url": "https://twitter.com/your_username",
       "imgname": "twitter.png",
       "color": "#000000",
-      "active": false
+      "active": true
     },
     {
       "name": "whatsapp",
@@ -40,21 +40,21 @@
       "url": "https://t.me/your_username",
       "imgname": "telegram.png",
       "color": "#229ED9",
-      "active": false
+      "active": true
     },
     {
       "name": "youtube",
       "url": "https://youtube.com/@your_channel",
       "imgname": "youtube.png",
       "color": "#FF0000",
-      "active": false
+      "active": true
     },
     {
       "name": "instagram",
       "url": "https://instagram.com/your_username",
       "imgname": "instagram.png",
       "color": "#E4405F",
-      "active": false
+      "active": true
     }
   ]
 }

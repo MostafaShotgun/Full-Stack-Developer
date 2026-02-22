@@ -1,0 +1,60 @@
+{
+  "social_media": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/XTrustedManX",
+      "imgname": "facebook.png",
+      "color": "#1877F2",
+      "active": true
+    },
+    {
+      "name": "linkedin",
+      "url": "https://linkedin.com/in/your_username",
+      "imgname": "linkedin.png",
+      "color": "#0A66C2",
+      "active": false
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/your_username",
+      "imgname": "github.png",
+      "color": "#181717",
+      "active": true
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/your_username",
+      "imgname": "twitter.png",
+      "color": "#000000",
+      "active": true
+    },
+    {
+      "name": "whatsapp",
+      "url": "https://wa.me/201002789493",
+      "imgname": "whatsapp.png",
+      "color": "#25D366",
+      "active": false
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/your_username",
+      "imgname": "telegram.png",
+      "color": "#229ED9",
+      "active": true
+    },
+    {
+      "name": "youtube",
+      "url": "https://youtube.com/@your_channel",
+      "imgname": "youtube.png",
+      "color": "#FF0000",
+      "active": false
+    },
+    {
+      "name": "instagram",
+      "url": "https://instagram.com/your_username",
+      "imgname": "instagram.png",
+      "color": "#E4405F",
+      "active": true
+    }
+  ]
+}
